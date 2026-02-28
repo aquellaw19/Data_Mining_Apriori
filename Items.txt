@@ -3,6 +3,8 @@ Milk
 Banana
 Rice
 Flour
+Water
+Beer
 Jeans
 Work Pants
 Joggers
@@ -12,19 +14,17 @@ Sneakers
 T-Shirt
 Leggings
 Face Moisturizer
-Pressed Powder
-Matte Foundation
 Hair Dryer
 Concealer
-Hair Elastics
 Body Lotion
 Hair Brush
 Shampoo
 Conditioner
-iPad
 MacBook
 External SSD
 TV
 TV Wall Mount
 Printer
-Printer Ink
+Ink
+RAM
+Headset

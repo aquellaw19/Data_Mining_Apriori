@@ -1,20 +1,20 @@
-﻿Face Moisturizer,Concealer,Pressed Powder,
-Matte Foundation,Concealer,Pressed Powder,
-Shampoo,Hair Conditioner,Hair Brush,
-Hair Elastics,Hair Brush,Shampoo,
-Body Lotion,Face Moistrurizer,,
-Hair Dryer,Hair Brush,Hair Eslastics,
-Matte Foundation,Face Moistrurizer,Concealer,
-Pressed Powder,Concealer,,
-Shampoo,Hair Conditioner,,
-Hair Dryer,Shampoo,Hair Conditioner,
-Body Lotion,Hair Elastics,Hair Brush,
-Face Moisturizer,Matte Foundation,Pressed Powder,
-Concealer,Matte Foundation,,
-Hair Brush,Shampoo,Hair Conditioner,Hair Eslastics
-Body Lotion,Face Moistrurizer,Pressed Powder,
-Hair Dryer,Hair,,
-Matte Foundation,Concealer,Pressed Powder,Face Moisturizer
-Shampoo,Hair Conditioner,Body Lotion,
-Hair Elastics,Hair Brush,,
-Face Moisturizer,Concealer,Body Lotion,
+﻿Shampoo,Conditioner
+Face Moisturizer,Body Lotion,Concealer
+Hair Dryer,Hair Brush
+Shampoo,Conditioner,Hair Dryer
+Face Moisturizer,Body Lotion
+Hair Brush,Hair Dryer,Conditioner
+Shampoo,Conditioner,Body Lotion
+Concealer,Hair Dryer
+Hair Dryer,Hair Brush,Shampoo,Conditioner
+Body Lotion,Conditioner,Concealer
+Shampoo,Hair Brush
+Conditioner,Body Lotion,Hair Dryer
+Face Moisturizer,Concealer,Shampoo
+Hair Dryer,Hair Brush,Body Lotion
+Shampoo,Conditioner,Concealer
+Body Lotion,Hair Brush,Conditioner
+Face Moisturizer,Hair Dryer,Shampoo
+Concealer,Body Lotion
+Shampoo,Conditioner,Hair Brush,Hair Dryer
+Face Moisturizer,Body Lotion,Shampoo

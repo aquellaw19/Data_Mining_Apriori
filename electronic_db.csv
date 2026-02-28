@@ -1,20 +1,20 @@
-﻿MacBook, SSD,
-Printer, Ink,
-TV, TV Wall Mount,
-iPad, SSD,
-MacBook, Printer,
-Printer, Ink, SSD
-TV, TV Wall Mount, Printer
-MacBook, SSD, Printer
-iPad, MacBook,
-TV, SSD,
-Printer, Ink, MacBook
-TV Wall Mount, TV,
-iPad, Printer, Ink
-MacBook, SSD, iPad
-Printer, Ink,
-TV, TV Wall Mount, SSD
-MacBook, Printer, Ink
-iPad, SSD,
-TV, Printer,
-SSD, MacBook,
+﻿MacBook,RAM,Headset
+TV,TV Wall Mount
+Printer,Ink
+MacBook,External SSD,RAM
+TV,TV Wall Mount,Printer
+Printer,Ink,Headset
+MacBook,External SSD
+TV,TV Wall Mount,Ink
+MacBook,RAM,Printer
+Printer,Ink,RAM
+TV,TV Wall Mount,Headset
+MacBook,External SSD,Headset
+Printer,Ink,MacBook
+MacBook,RAM,External SSD
+TV,TV Wall Mount,Printer,Ink
+Printer,Ink,External SSD
+MacBook,Headset,RAM
+TV,TV Wall Mount,RAM
+MacBook,External SSD,Printer
+Printer,Ink,TV
